@@ -1,2 +1,2 @@
-# Diffraction_simulation
+# diffraction_simulation
 My copy of Thomas Wolf's diffraction simulation code
